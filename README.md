@@ -1,2 +1,1 @@
-# coltonlafler.github.io
-10th grade portfolio project
+Portfolio Website for College Admissions
